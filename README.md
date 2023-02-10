@@ -1,5 +1,5 @@
 # OSUE-Solutions-TUWien
-My solutions for OSUE. Feel free to use them as your starting point. Specially, if you are new to C-Programming. As a new programmer, it can be quite overwhelming to get started with C. Take more time for the first assignment. You will take some time to get used to C syntax.#
+My solutions for OSUE. Feel free to use them as a starting point. Specially, if you are new to C-Programming. As a new programmer, it can be quite overwhelming to get started with C. Take more time for the first assignment. You will need some time to get used to C syntax.#
 
 Even though, I have full points on almost every assignment. It doesn't mean, they are 100% right. They put a lot of value on defensive programming and depending on the tutor, you may or may not get away with it. Tip: Always check for return value of a function (e.g. malloc).
 
@@ -12,7 +12,7 @@ Topics: argument parsing, file operations: opening/reading/writing/closing
 Points: **5/5**
 
 ## 1b
-Clients create solutions for the 3-colouring problem and write them to the shared memory and the server reads the best solution from the shared memory and write them to the stdout.
+Clients create solutions for the 3-colouring problem and write them to the shared memory and the server reads the best solution from the shared memory and writes it to the stdout.
 
 Topics: Shared memory and semaphores.
 
