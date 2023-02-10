@@ -1,5 +1,5 @@
 # OSUE-Solutions-TUWien
-My solutions for OSUE. Feel free to use them as a starting point. Specially, if you are new to C-Programming. As a new programmer, it can be quite overwhelming to get started with C. Take more time for the first assignment. You will need some time to get used to C syntax.#
+My solutions for OSUE. Feel free to use them as a starting point. Specially, if you are new to C-Programming, it can be quite overwhelming to get started with C. Take more time for the first assignment. C syntax can be challenging.
 
 Even though, I have full points on almost every assignment. It doesn't mean, they are 100% right. They put a lot of value on defensive programming and depending on the tutor, you may or may not get away with it. Tip: Always check for return value of a function (e.g. malloc).
 
